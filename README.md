@@ -13,7 +13,7 @@ A Student of Computer and Systems engineering at Universidad de los Andes. I am 
 ### My skills include
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/MichiMoments/MichiMoments/blob/main/c%20sharp.png">
+  <img width="70" height="70" src="https://github.com/MichiMoments/MichiMoments/blob/main/c%20sharp.png">
 </p>
 
 
