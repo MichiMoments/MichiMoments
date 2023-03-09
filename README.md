@@ -16,7 +16,6 @@ A Student of Computer and Systems engineering at Universidad de los Andes. I am 
 
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
-	![c sharp](https://user-images.githubusercontent.com/98660771/224078661-a6203622-0a8a-4198-b0a7-659da6335650.png)
 
 </p>
 
