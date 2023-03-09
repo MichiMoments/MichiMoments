@@ -1,14 +1,13 @@
-### Hi there 👋 I'm Thomas George Thomas,
+### Hi there 👋 I'm David Pérez Cárdenas,
 
-A data engineer passionate about Data Science :bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
+A Student of Computer and Systems engineering at Universidad de los Andes. I am a very passionate guy with lots of interest in the medium and a lot of desire for learning.
 
 
-- ⚡ **Fun fact:** I believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
 - 🔭 I’m currently working on:
-	- Linear regression on Health data
-	- Twitter Sentimental Analysis using NLP and clustering
-- :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
-- 💬 Talk to me about Formula 1 :racing_car:, Memes, anything that interests you.
+	- ChatGPT API usage in customer service
+	- SQL usage in databases.
+- :bulb: I'm interested in all things data: **Cloud, Machine Learning and Data Science**
+- 💬 Talk to me about Movies, Music, and anything that interests you.
 - 🌱 I’m currently pursuing **Machine learning**.
 
 ### My skills include
@@ -27,40 +26,6 @@ A data engineer passionate about Data Science :bar_chart:. I like automating thi
 	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" />
 </p>
 
-<!--
-**Thomas-George-T/Thomas-George-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-T
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-### My Recent post on Medium!
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/0" alt="Recent Article on medium"></img></a>   
-    
-    
-**If you find my work good, consider giving it a :star: or fork-ing to show some :heart:. It helps me stay on track and be motivated.**
-<hr>
-<p align="center">
-   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
-   <br>
-   <i>You miss 100% of the shots you don't take.</i>
-   <br>
-<br>	
-<a target="_blank" href="https://www.linkedin.com/in/thomasgeorgethomas"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:thomasgeorgethomas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://medium.com/@thomas_george_thomas"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/Thomas_George_T"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-<br>
-</p>
 
 -----
 
